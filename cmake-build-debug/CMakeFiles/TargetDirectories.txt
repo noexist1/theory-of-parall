@@ -1,0 +1,3 @@
+C:/Users/мвидео461/OneDrive/Документы/теорема параллелизма/cmake-build-debug/CMakeFiles/_.dir
+C:/Users/мвидео461/OneDrive/Документы/теорема параллелизма/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/мвидео461/OneDrive/Документы/теорема параллелизма/cmake-build-debug/CMakeFiles/rebuild_cache.dir
