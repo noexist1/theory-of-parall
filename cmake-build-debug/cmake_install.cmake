@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/мвидео461/OneDrive/Документы/теорема параллелизма
+# Install script for directory: C:/Users/мвидео461/OneDrive/Документы/теория параллелизма
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/мвидео461/OneDrive/Документы/теорема параллелизма/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/мвидео461/OneDrive/Документы/теория параллелизма/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
